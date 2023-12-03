@@ -9,6 +9,13 @@
 
 - ⚡ Fun fact: **I can't swim, yet!**
 
+## My Current Projects
+
+|   Project   | Description |   Status    |
+| ----------- | ----------- |  ---------- | 
+| beCared | My Final Year Project that is designed to offer users, primarily patients and HCPs, a service to search for different medicines and chemicals  | Working
+| Rich Web Applications | Module repository containing the progress throughout the semester with JavaScript | Working
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/twila-habab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="twila-habab" height="30" width="40" /></a>
