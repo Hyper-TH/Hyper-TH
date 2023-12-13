@@ -13,8 +13,8 @@
 
 |   Project   | Description |   Status    |
 | ----------- | ----------- |  ---------- | 
-| beCared | My Final Year Project that is designed to offer users, primarily patients and HCPs, a service to search for different medicines and chemicals  | Working
-| Rich Web Applications | Module repository containing the progress throughout the semester with JavaScript | Working
+| beCared | My Final Year Project that is designed to offer users, primarily patients and HCPs, a service to search for different medicines and chemicals  | In Progress
+| Rich Web Applications | Module repository containing the progress throughout the semester with JavaScript | Complete
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
