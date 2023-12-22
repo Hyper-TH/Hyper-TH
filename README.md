@@ -17,6 +17,8 @@
 | To-do React App | A simple React App where different functionalities are demonstrated | In Progress
 
 ## My College Projects
+|   Project   | Description |   Status    |
+| ----------- | ----------- |  ---------- | 
 | Rich Web Applications | Module repository containing the progress throughout the semester with JavaScript | Complete
 | Databases Year 2 Sem 1 | Databases Year 2 Semester 1 final CA project | Complete
 
