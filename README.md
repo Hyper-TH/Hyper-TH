@@ -14,8 +14,11 @@
 |   Project   | Description |   Status    |
 | ----------- | ----------- |  ---------- | 
 | beCared | My Final Year Project that is designed to offer users, primarily patients and HCPs, a service to search for different medicines and chemicals  | In Progress
-| Rich Web Applications | Module repository containing the progress throughout the semester with JavaScript | Complete
 | To-do React App | A simple React App where different functionalities are demonstrated | In Progress
+
+## My College Projects
+| Rich Web Applications | Module repository containing the progress throughout the semester with JavaScript | Complete
+| Databases Year 2 Sem 1 | Databases Year 2 Semester 1 final CA project | Complete
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
