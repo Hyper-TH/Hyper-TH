@@ -23,6 +23,7 @@
 | Rich Web Applications | Module repository containing the progress throughout the semester with JavaScript | Complete
 | Databases Year 2 Sem 1 | Databases Year 2 Semester 1 final CA project | Complete
 | Timeage | Mobile Software Weather/Calendar/Progress_Tracker/To-Do App | Complete
+| STM32 | Module project for year 1 sem 2 Microprocessing | Complete
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
