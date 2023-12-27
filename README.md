@@ -21,6 +21,7 @@
 |   Project   | Description |   Status    |
 | ----------- | ----------- |  ---------- | 
 | Rich Web Applications | Module repository containing the progress throughout the semester with JavaScript | Complete
+| Hypers_OOP | Module repository for Year 2 Semester 2 OOP | Complete
 | Databases Year 2 Sem 1 | Module project for Year 2 Semester 1 Databases | Complete
 | Timeage | Mobile Software Weather/Calendar/Progress_Tracker/To-Do App | Complete
 | STM32 | Module project for Year 1 Semester 2 Microprocessing | Complete
