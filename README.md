@@ -15,6 +15,7 @@
 | ----------- | ----------- |  ---------- | 
 | beCared | My Final Year Project that is designed to offer users, primarily patients and HCPs, a service to search for different medicines and chemicals  | In Progress
 | To-do React App | A simple React App where different functionalities are demonstrated | In Progress
+| react-app | Completing JS React Firebase tutorial | Complete
 | Hyper Bot | A simple Discord bot with a Disboard Bump ranking system [OUTDATED] | Complete
 | Rx_Stopwatch | A simple stopwatch app implemented in RxJS | Complete
 
