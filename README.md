@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: **I can't swim, yet!**
 
-## My Current Projects
+## My Personal Projects
 
 |   Project   | Description |   Status    |
 | ----------- | ----------- |  ---------- | 
