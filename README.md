@@ -19,6 +19,7 @@
 | Hyper Bot | A simple Discord bot with a Disboard Bump ranking system [OUTDATED] | Complete
 | Rx_Stopwatch | A simple stopwatch app implemented in RxJS | Complete
 | firebase-app | Completing JS React Firebase tutorial | Complete
+| typescript-app | Completing TypeScript React tutorial | Complete
 
 ## My College Projects
 |   Project   | Description |   Status    |
