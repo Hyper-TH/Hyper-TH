@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **twila.shayne.habab@outlook.com**
 
-- ⚡ Fun fact: **I can't swim yet and I love LEGOs**
+- ⚡ Fun fact: **I can't swim yet and I love LEGOs!**
 
 ## My Personal Projects
 
