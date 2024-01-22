@@ -13,7 +13,7 @@
 
 |   Project   | Description |   Status    |
 | ----------- | ----------- |  ---------- | 
-| HyperBot | Hyper-Bot v2 | In Progress |
+| HyperBot | Hyper-Bot v2 in DiscordJS v14^ | In Progress |
 | beCared | My Final Year Project that is designed to offer users, primarily patients and HCPs, a service to search for different medicines and chemicals  | In Progress
 | To-do React App | A simple React App where different functionalities are demonstrated | In Progress
 | react-app | Completing JS React tutorial | Complete
