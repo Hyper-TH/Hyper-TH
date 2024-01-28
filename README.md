@@ -25,6 +25,7 @@
 ## My College Projects
 |   Project   | Description |   Status    |
 | ----------- | ----------- |  ---------- | 
+| Visualising Data | Module repository containing the CAs with R Year 4 Semester 2 | In Progress
 | MarketPlace | Module project for Year 4 Semester 1 Distributed Systems | Complete
 | Advance_Databases_CA_1 | Module project for Year 4 Semester 1 Advanced Databases | Complete
 | Rich Web Applications | Module repository containing the CAs with JavaScript Year 4 Semester 1  | Complete
