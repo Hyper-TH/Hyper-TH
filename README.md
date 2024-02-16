@@ -14,7 +14,7 @@
 |   Project   | Description |   Status    |
 | ----------- | ----------- |  ---------- | 
 | HyperBot | Hyper-Bot v2 in DiscordJS v14^ | In Progress |
-| [beCared [FYP]](https://github.com/Hyper-TH/be-cared)| My Final Year Project that is designed to offer users, primarily patients and HCPs, a service to search for different medicines and chemicals  | In Progress
+| [beCared [FYP]](https://github.com/Hyper-TH/be-cared)| My Final Year Project that is designed to offer users, primarily patients and HCPs, a service to search for different medicines, chemicals, anr interactions  | In Progress
 | To-do React App | A simple React App where different functionalities are demonstrated | In Progress
 | react-app | Completing JS React tutorial | Complete
 | Hyper Bot | A simple Discord bot with a Disboard Bump ranking system [DEPRECATED] | Complete
