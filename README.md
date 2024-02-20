@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! My name is Twila</h1>
+<h1 align="center">Hi there! My name is Twila.</h1>
 <h3 align="center">I'm a passionate developer from Dublin Ireland who loves to code and learn new things!</h3>
 
 - 🔭 I’m currently working on: [beCared Web Application [FYP]](https://github.com/Hyper-TH/be-cared)
