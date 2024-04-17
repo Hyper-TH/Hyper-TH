@@ -14,7 +14,7 @@
 |   Project   | Description |   Status    |
 | ----------- | ----------- |  ---------- | 
 | HyperBot | Hyper-Bot v2 in DiscordJS v14^ | In Progress |
-| [beCared [FYP]](https://github.com/Hyper-TH/be-cared)| My Final Year Project that is designed to offer users, primarily patients and HCPs, a service to search for different medicines, chemicals, anr interactions  | Complete
+| [beCared [FYP]](https://github.com/Hyper-TH/be-cared)| My Final Year Project that is designed to offer users, primarily patients and HCPs, a service to search for different medicines, chemicals, and interactions  | Complete
 | [beCared Server [FYP]](https://github.com/Hyper-TH/be-cared-server)| Server Repository for beCared  | Complete
 | [beCared Server Tester [FYP]](https://github.com/Hyper-TH/be-cared-server-tester) | Testing server for beCared | Complete
 | To-do React App | A simple React App where different functionalities are demonstrated | Complete
