@@ -1,9 +1,9 @@
 <h1 align="center">Hi there! My name is Twila.</h1>
 <h3 align="center">I'm a passionate developer from Dublin Ireland who loves to code and learn new things!</h3>
 
-- 🔭 I’m currently working on: [EA_Node_Ajax](https://github.com/Hyper-TH/EA_Node_Ajax )
+- 🔭 I’m currently working on: Exam Prep
 
-- 🌱 I’m currently learning: **M.E.R.N stack applications**
+- 🌱 I’m currently learning: **T.B.A**
 
 - 📫 How to reach me: **twila.shayne.habab@outlook.com**
 
@@ -27,7 +27,8 @@
 ## My College Projects
 |   Project   | Description |   Status    |
 | ----------- | ----------- |  ---------- | 
-| EA_Node_Ajax | Module project for Year 4 Semseter 2 Enterprise Application Development | In Progress
+| EA_Node_Ajax | Module project for Year 4 Semseter 2 Enterprise Application Development | Complete
+| EA_Node_Ajax_Server | Module project server for Year 4 Semseter 2 Enterprise Application Development | Complete
 | Visualising Data | Module repository containing the CAs with R Year 4 Semester 2 | Complete
 | MarketPlace | Module project for Year 4 Semester 1 Distributed Systems | Complete
 | Advance_Databases_CA_1 | Module project for Year 4 Semester 1 Advanced Databases | Complete
