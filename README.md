@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: Exam Prep
 
-- 🌱 I’m currently learning: **T.B.A**
+- 🌱 I’m currently learning: **C#**
 
 - 📫 How to reach me: **twila.shayne.habab@outlook.com**
 
