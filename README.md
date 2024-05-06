@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: Exam Prep, C# Basics
 
-- 🌱 I’m currently learning: **C#**
+- 🌱 I’m currently learning: **C# basics**
 
 - 📫 How to reach me: **twila.shayne.habab@outlook.com**
 
