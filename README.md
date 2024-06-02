@@ -1,9 +1,9 @@
 <h1 align="center">Hi there! My name is Twila.</h1>
 <h3 align="center">I'm a passionate developer from Dublin Ireland who loves to code and learn new things!</h3>
 
-- 🔭 I’m currently working on: C# Basics
+- 🔭 I’m currently working on: C# Basics; TypeScript & React
 
-- 🌱 I’m currently learning: **C# basics**
+- 🌱 I’m currently learning: **C# basics; TypeScript & React**
 
 - 📫 How to reach me: **twila.shayne.habab@outlook.com**
 
