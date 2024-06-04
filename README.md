@@ -24,7 +24,8 @@
 | firebase-app | Completing JS React Firebase tutorial | Complete
 | typescript-app | Completing TypeScript React tutorial | Complete
 
-## My College Projects
+
+[My College Projects](https://github.com/Hyper-TH/College_Projects/tree/master)
 
 
 <h3 align="left">Connect with me:</h3>
