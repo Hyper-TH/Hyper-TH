@@ -17,7 +17,7 @@
 | [beCared [FYP]](https://github.com/Hyper-TH/be-cared)| My Final Year Project that is designed to offer users, primarily patients and HCPs, a service to search for different medicines, chemicals, and interactions  | Complete
 | [beCared Server [FYP]](https://github.com/Hyper-TH/be-cared-server)| Server Repository for beCared  | Complete
 | [beCared Server Tester [FYP]](https://github.com/Hyper-TH/be-cared-server-tester) | Testing server for beCared | Complete
-| To-do React App | A simple React App where different functionalities are demonstrated | Complete
+| [To-do React App](https://github.com/Hyper-TH/to-do) | A simple React App where different functionalities are demonstrated | Complete
 | react-app | Completing JS React tutorial | Complete
 | Hyper Bot | A simple Discord bot with a Disboard Bump ranking system [DEPRECATED] | Complete
 | Rx_Stopwatch | A simple stopwatch app implemented in RxJS | Complete
