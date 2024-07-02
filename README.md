@@ -22,7 +22,6 @@
 | [To-do React App](https://github.com/Hyper-TH/to-do) | A simple React App where different functionalities are demonstrated | Complete
 | react-app | Completing JS React tutorial | Complete
 | Hyper Bot | A simple Discord bot with a Disboard Bump ranking system [DEPRECATED] | Complete
-| Rx_Stopwatch | A simple stopwatch app implemented in RxJS | Complete
 | firebase-app | Completing JS React Firebase tutorial | Complete
 | typescript-app | Completing TypeScript React tutorial | Complete
 
