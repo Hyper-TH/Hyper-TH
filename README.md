@@ -20,7 +20,7 @@
 | [beCared Server [FYP]](https://github.com/Hyper-TH/be-cared-server)| Server Repository for beCared  | Complete
 | [beCared Server Tester [FYP]](https://github.com/Hyper-TH/be-cared-server-tester) | Testing server for beCared | Complete
 | [To-do React App](https://github.com/Hyper-TH/to-do) | A simple React App where different functionalities are demonstrated | Complete
-| react-app | Completing JS React tutorial | Complete
+| [react-app](https://github.com/Hyper-TH/react-app) | Completing JS React tutorial | Complete
 | Hyper Bot | A simple Discord bot with a Disboard Bump ranking system [DEPRECATED] | Complete
 | firebase-app | Completing JS React Firebase tutorial | Complete
 | typescript-app | Completing TypeScript React tutorial | Complete
