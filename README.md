@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! My name is Twila.</h1>
 <h3 align="center">I'm a passionate developer from Dublin Ireland who loves to code and learn new things!</h3>
 
-- 🔭 I’m currently working on: React with ASP.NET Core
+- 🔭 I’m currently working on: Small Projects
 
 - 🌱 I’m currently learning: **React with ASP.NET Core**
 
@@ -15,7 +15,8 @@
 
 |   Project   | Description |   Status    |
 | ----------- | ----------- |  ---------- | 
-| HyperBot | Hyper-Bot v2 in DiscordJS v14^ | In Progress |
+| [React x ASP.NET Core](https://github.com/Hyper-TH/Weather_App) | Small projects in one app. Learning as a beginner | In Progress 
+| HyperBot | Hyper-Bot v2 in DiscordJS v14^ | Hiatus |
 | [beCared [FYP]](https://github.com/Hyper-TH/be-cared)| My Final Year Project that is designed to offer users, primarily patients and HCPs, a service to search for different medicines, chemicals, and interactions  | Complete
 | [beCared Server [FYP]](https://github.com/Hyper-TH/be-cared-server)| Server Repository for beCared  | Complete
 | [beCared Server Tester [FYP]](https://github.com/Hyper-TH/be-cared-server-tester) | Testing server for beCared | Complete
