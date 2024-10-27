@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **React with ASP.NET Core**
 
-- Status: Slowly getting back up
+- Status: Preparing for another major project
 
 - 📫 How to reach me: **twila.shayne.habab@outlook.com**
 
