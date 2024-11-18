@@ -17,7 +17,7 @@
 | ----------- | ----------- |  ---------- | 
 | [React x ASP.NET Core](https://github.com/Hyper-TH/Weather_App) | Small projects in one app. Learning as a beginner | In Progress 
 | [RASP_Redis](https://github.com/Hyper-TH/RASP_Redis) | In preparation for my next project. ReactxASPNetxRedisxMongoDB | In Progress
-| HyperBot | Hyper-Bot v2 in DiscordJS v14^ | Hiatus
+| [HyperBot](https://github.com/Hyper-TH/HyperBot) | Hyper-Bot v2 in DiscordJS v14^ | In Progress
 | [beCared [FYP]](https://github.com/Hyper-TH/be-cared)| My Final Year Project that is designed to offer users, primarily patients and HCPs, a service to search for different medicines, chemicals, and interactions  | Complete
 | [beCared Server [FYP]](https://github.com/Hyper-TH/be-cared-server)| Server Repository for beCared  | Complete
 | [beCared Server Tester [FYP]](https://github.com/Hyper-TH/be-cared-server-tester) | Testing server for beCared | Complete
