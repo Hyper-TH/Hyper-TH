@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: Discord Bot / RASP_MoDis
 
-- 🌱 I’m currently learning: **Discord.JS** / **React with ASP.NET Core**
+- 🌱 I’m currently learning: **Discord.JS** / **React with ASP.NET**
 
 - Status: Preparing for another major project
 
@@ -15,7 +15,7 @@
 
 |   Project   | Description |   Status    |
 | ----------- | ----------- |  ---------- | 
-| [React x ASP.NET Core](https://github.com/Hyper-TH/Weather_App) | Small projects in one app. Learning as a beginner | In Progress 
+| [React x ASP.NET](https://github.com/Hyper-TH/Weather_App) | Small projects in one app. Learning as a beginner | In Progress 
 | [RASP_Redis](https://github.com/Hyper-TH/RASP_Redis) | In preparation for my next project. ReactxASPNetxRedisxMongoDB | In Progress
 | [HyperBot](https://github.com/Hyper-TH/HyperBot) | Hyper-Bot v2 in DiscordJS v14^ | In Progress
 | [beCared [FYP]](https://github.com/Hyper-TH/be-cared)| My Final Year Project that is designed to offer users, primarily patients and HCPs, a service to search for different medicines, chemicals, and interactions  | Complete
