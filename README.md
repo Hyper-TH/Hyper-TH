@@ -16,6 +16,7 @@
 |   Project   | Description |   Status    |
 | ----------- | ----------- |  ---------- | 
 | [Project_A_Server](https://github.com/Hyper-TH/Project_A_Server) | Server for Project_Availability | In Progress 
+| [Project_A](https://github.com/Hyper-TH/Project_A) | Front-End for Project_Availability | In Progress 
 | [RASP_Redis](https://github.com/Hyper-TH/RASP_Redis) | In preparation for my next project. ReactxASPNetxRedisxMongoDB | In Progress
 | [HyperBot](https://github.com/Hyper-TH/HyperBot) | Hyper-Bot v2 in DiscordJS v14^ | In Progress
 | [beCared [FYP]](https://github.com/Hyper-TH/be-cared)| My Final Year Project that is designed to offer users, primarily patients and HCPs, a service to search for different medicines, chemicals, and interactions  | Complete
