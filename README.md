@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **Discord.JS** / **React with ASP.NET**
 
-- Status: On-Holidays
+- Status: Working on the first major project
 
 - 📫 How to reach me: **twila.shayne.habab@outlook.com**
 
