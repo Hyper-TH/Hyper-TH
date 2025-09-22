@@ -1,11 +1,11 @@
 <h1 align="center">Hi there! My name is Twila.</h1>
 <h3 align="center">I'm a passionate developer from Dublin Ireland who loves to code and learn new things!</h3>
 
-- 🔭 I’m currently working on: Project_A
+- 🔭 I’m currently working on: Being a student
 
-- 🌱 I’m currently learning: **Discord.JS** / **React with ASP.NET**
+- 🌱 I’m currently learning: **NextJS** / **React with ASP.NET**
 
-- Status: Working on the first major project
+- Status: Course Projects & Self-learning
 
 - 📫 How to reach me: **twila.shayne.habab@outlook.com**
 
