@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: Being a student
 
-- 🌱 I’m currently learning: **NextJS** / **React with ASP.NET**
+- 🌱 I’m currently learning: **NextJS** / SQL
 
 - Status: Course Projects & Self-learning
 
