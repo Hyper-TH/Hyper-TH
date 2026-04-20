@@ -7,7 +7,7 @@
 
 - Status: Course Projects & Self-learning
 
-- 📫 How to reach me: **twila.shayne.habab@outlook.com**
+- 📫 How to reach me: **twila.habab.business@outlook.com**
 
 - ⚡ Fun fact: **I can't swim (yet), and I love LEGOs!**
 
