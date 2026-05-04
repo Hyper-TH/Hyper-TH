@@ -26,7 +26,7 @@
 | [To-do React App](https://github.com/Hyper-TH/to-do) | A simple React App where different functionalities are demonstrated | Complete
 | Hyper Bot | A simple Discord bot with a Disboard Bump ranking system (my first JS project) [DEPRECATED] | Complete
 
-[My College Projects](https://github.com/Hyper-TH/College_Projects/tree/master)
+[My Bachelors & Masters Projects](https://github.com/Hyper-TH/College_Projects/tree/master)
 
 
 <h3 align="left">Connect with me:</h3>
