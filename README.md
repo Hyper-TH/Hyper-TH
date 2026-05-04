@@ -16,14 +16,11 @@
 
 |   Project   | Description |   Status    |
 | ----------- | ----------- |  ---------- | 
-| [Project_A_Server](https://github.com/Hyper-TH/Project_A_Server) | Server for Project_Availability | In Progress 
-| [Project_A](https://github.com/Hyper-TH/Project_A) | Front-End for Project_Availability | In Progress 
-| [RASP_Redis](https://github.com/Hyper-TH/RASP_Redis) | In preparation for my next project. ReactxASPNetxRedisxMongoDB | Complete
-| [HyperBot](https://github.com/Hyper-TH/HyperBot) | Hyper-Bot v2 in DiscordJS v14^ | In Progress
+| [Project_A_Server](https://github.com/Hyper-TH/Project_A_Server), [Project_A](https://github.com/Hyper-TH/Project_A)  | Project_Availability in C# and Redis| Discontinued  
 | [beCared [FYP]](https://github.com/Hyper-TH/be-cared)| My Final Year Project that is designed to offer users, primarily patients and HCPs, a service to search for different medicines, chemicals, and interactions  | Complete
 | [beCared Server [FYP]](https://github.com/Hyper-TH/be-cared-server)| Server Repository for beCared  | Complete
 | [beCared Server Tester [FYP]](https://github.com/Hyper-TH/be-cared-server-tester) | Testing server for beCared | Complete
-| [To-do React App](https://github.com/Hyper-TH/to-do) | A simple React App where different functionalities are demonstrated | Complete
+| [HyperBot](https://github.com/Hyper-TH/HyperBot) | Hyper-Bot v2 in DiscordJS v14^ | Discontinued
 | Hyper Bot | A simple Discord bot with a Disboard Bump ranking system (my first JS project) [DEPRECATED] | Complete
 
 [My Bachelors & Masters Projects](https://github.com/Hyper-TH/College_Projects/tree/master)
